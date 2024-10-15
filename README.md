@@ -5,7 +5,7 @@
 * [Database Setup and Exploration](#Database-Setup-and-Exploration)
 * [Precipitation Data Analysis](#Precipitation-Data-Analysis)
 * [Design Your Climate App](#Design-Your-Climate-App)
-* [app.py Image](#app-py-Image)
+* [Image](#Image)
 * [Questions](#Questions)
 * [References](#References)
 
@@ -29,7 +29,7 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To 
 
 The app.py script is built using Flask, to create an API or web service that allows users to query and retrieve climate data such as temperature and precipitation. The goal of this application is to provide easy access to the results of the data exploration and visualizations performed in the climate analysis, making the data accessible via web routes.
 
-## app.py Image
+## Image
 
 ![data modeling](/Resources/app.py-routes.png)
 ![data modeling](/Resources/app.py-routes-explorer.gif)
