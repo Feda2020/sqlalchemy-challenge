@@ -5,7 +5,7 @@
 * [Database Setup and Exploration](#Database-Setup-and-Exploration)
 * [Precipitation Data Analysis](#Precipitation-Data-Analysis)
 * [Design Your Climate App](#Design-Your-Climate-App)
-* [app.py Image](#app.py-Image)
+* [app.py Image](#app-py-Image)
 * [Questions](#Questions)
 * [References](#References)
 
